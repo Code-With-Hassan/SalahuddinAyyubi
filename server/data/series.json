@@ -1,0 +1,43 @@
+{
+  "series": [
+    {
+      "id": "s1",
+      "seasonNumber": 1,
+      "episodes": [
+        {
+          "id": "e1",
+          "title": "The Beginning of a Legendssss",
+          "thumbnail": "https://placeholder.com/episode1.jpg",
+          "duration": "45:00",
+          "episodeNumber": 1,
+          "description": "The early life of Salahuddin Ayyubi and his initial steps into leadership.",
+          "videoUrl": "https://cdn10.urduflix.pk:8443/NiaziPlay/Salahuddin-Ayyubi/Urdu/S1/Episode-1.mp4/tracks-v1a1/mono.ts.m3u8?token=54SIzlWiSIletcvqJot0IausLtogDuM6OciZSB9EH93aYUwxW88YJtreahXiitlM"
+        },
+        {
+          "id": "e2",
+          "title": "Rise to Power",
+          "thumbnail": "https://placeholder.com/episode2.jpg",
+          "duration": "42:00",
+          "episodeNumber": 2,
+          "description": "Salahuddin becomes the vizier of Egypt and begins his journey to unite the Muslim world.",
+          "videoUrl": "https://example.com/episode2.mp4"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "seasonNumber": 2,
+      "episodes": [
+        {
+          "id": "e3",
+          "title": "The Battle Begins",
+          "thumbnail": "https://placeholder.com/episode3.jpg",
+          "duration": "44:00",
+          "episodeNumber": 1,
+          "description": "Salahuddin prepares for the decisive battle against the Crusaders.",
+          "videoUrl": "https://example.com/episode3.mp4"
+        }
+      ]
+    }
+  ]
+}
